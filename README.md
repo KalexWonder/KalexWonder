@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KalexWonder
-- 👀 I’m interested in coding, cryptocurrency, EDM music, family, and nature.
+- 👀 I’m interested in coding, cryptocurrency, IoT, EDM music, family, and nature.
 - 🌱 I’m currently learning Python and always improving my CSS and Ruby.
-- 💞️ I’m looking to collaborate on cryptocurrency projects.
+- 💞️ I’m looking to collaborate on cryptocurrency, Iot, and AI projects.
 - 📫 The best way to reach me is at KalexWonder@gmail.com
 
 <!---
